@@ -40,10 +40,10 @@
 	border-radius: 10px;
 
 	border: 1px solid #999999;
-	background-color: rgba(255, 20, 20, 0.4);
+	background-color: rgba(255, 255, 255, 0.4);
 }
 .global__aside-list-item:hover{
-	background-color: rgba(255, 255, 255, 1);
+	background-color: rgba(255, 20, 20, 1);
 }
 .global__aside-list-item:hover a{
 	text-decoration: underline;
